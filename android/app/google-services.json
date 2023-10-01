@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "707435294082",
+    "project_id": "businessbank-test",
+    "storage_bucket": "businessbank-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:707435294082:android:5002ebb71353f583e3339b",
+        "android_client_info": {
+          "package_name": "com.example.business_bank"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0UcRTE8TFUasd-iWHfmH4PvIwkX3pakk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
